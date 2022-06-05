@@ -16,4 +16,4 @@ spec:
         - name: debian
           image: debian
           command: ["/bin/sh"]
-          args: ["-c", "while true; do echo keep-alive-hack; sleep 10;done"]
+          args: ["-c", "while true; do echo keep-alive-hack; sleep 10; done"]
