@@ -17,4 +17,4 @@ spec:
         - name: playground
           image: finctive/playground
           ports:
-            - containerPort: 4000
+            - containerPort: 8080
